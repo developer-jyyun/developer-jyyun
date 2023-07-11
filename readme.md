@@ -12,6 +12,6 @@
 
 ## Projects
 
-* http://yyjjyy.dothome.co.kr/yjy/
+* [2021_퍼블리셔 포트폴리오](http://yyjjyy.dothome.co.kr/yjy/)
 *
 *
