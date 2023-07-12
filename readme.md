@@ -13,5 +13,5 @@
 ## Projects
 
 * [2021_퍼블리셔 포트폴리오](http://yyjjyy.dothome.co.kr/yjy/)
-*
+* [스타벅스 페이지](https://chic-rolypoly-26afa9.netlify.app/)
 *
