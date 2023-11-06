@@ -1,4 +1,4 @@
-# 끊임없이 성장하는, developer-jyyun
+# 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloper-jyyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Github Stats
@@ -12,6 +12,3 @@
 
 ## Projects
 
-* [2021_퍼블리셔 포트폴리오](http://yyjjyy.dothome.co.kr/yjy/)
-* [스타벅스 페이지](https://chic-rolypoly-26afa9.netlify.app/)
-*
